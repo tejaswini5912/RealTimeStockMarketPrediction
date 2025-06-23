@@ -53,4 +53,4 @@ Visual storytelling with stock data
 Practical understanding of stock price behavior
 
 🔗 Connect
-If you're interested in stock forecasting, finance + ML, or building projects like this — feel free to fork the repo, suggest improvements, or connect with me on LinkedIn ( https://github.com/tejaswini5912 ) .
+If you're interested in stock forecasting, finance + ML, or building projects like this — feel free to fork the repo, suggest improvements, or connect with me on LinkedIn ( https://www.linkedin.com/in/avatapalli-tejaswini/ ) .
