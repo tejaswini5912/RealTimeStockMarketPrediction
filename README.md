@@ -27,7 +27,7 @@ This project is a real-time stock price prediction tool built using **Machine Le
 ## 🚀 How to Run
 
 bash:
-git clone https://github.com/tejaswini5912/real-time-stock-prediction.git
+git clone (https://github.com/tejaswini5912/RealTimeStockMarketPrediction/blob/main/real_time_stock_prediction_upgraded.py)
 cd real-time-stock-prediction
 python real_time_stock_predictor_upgraded.py
 You'll be prompted to enter one or more stock tickers (e.g., AAPL,MSFT) and the number of days to forecast (minimum 30).
